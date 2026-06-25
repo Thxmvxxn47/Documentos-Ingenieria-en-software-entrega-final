@@ -1,5 +1,6 @@
 # Evidencias Grupo 8
-# Integrantes: Thomas Marin, Mizahel Huaman, Michael Santibañez
+# Integrantes:
+Thomas Marin, Mizahel Huaman, Michael Santibañez 
 # Seccion 005D
 Profesor Mauricio Solar
 # Evidencia de Proyecto: Tareas y Prototipos
